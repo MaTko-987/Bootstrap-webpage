@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background: rgb(255,255,224);
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-bottom: 1px solid;
+}
+
+
+.w-100 {
+    width: 100%!important;
+    max-height: 700px;
+}
+
+.carousel-box {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr {
+    color: black;
+}
+
+.cards-box {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.modal-body img {
+    margin: 0 auto;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+.card-body img {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.form-box {
+    border: 1px solid rgb(220,220,220);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+table {
+    background: white;
+    border: 1px solid;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+
+
+.table_form_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.card{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+
+
+.flexbox_icon {
+    display: flex;
+    justify-content: space-between;
+}
+
+#border {
+    border: 0.5px solid rgb(220,220,220);
+}
+
+.form-check {
+    margin-bottom: 5px;
+}
+
+.btn{
+    margin-top: 5px;
+}
+
+.button-place {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.contact_navigation_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: start;
+}
+
+.contact_navigation_box img {
+    max-width: 230px;
+    max-height: 200px;
+    border: 1px solid rgb(220,220,220);
+    padding: 5px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+/*
+body {
+background-color: black;
+}
+*/
+
