@@ -54,7 +54,7 @@ h1 {
 
 .modal-body img {
     margin: 0 auto;
-    height: 300px;
+    height: auto;
     width: 100%;
     text-align: center;
 }
