@@ -157,7 +157,7 @@ a:hover {
     font-weight: bold;
 }
 
-@media only screen and (min-width: 0px) and (max-width:520px) {
+@media only screen and and (max-width:520px) {
 
     .contact_navigation_box {
 	display: flex;
