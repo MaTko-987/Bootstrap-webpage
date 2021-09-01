@@ -96,12 +96,22 @@ li {
     margin-top: 10px;
     margin-bottom: 20px;
     box-shadow: 5px 10px 8px #888888;
+    font-family: 'Glory', sans-serif;
+    font-weight: 400;
 }
 
 table {
     background: white;
     border: 1px solid;
     box-shadow: 5px 10px 8px #888888;
+    font-family: 'Glory', sans-serif;
+    font-weight: 400;
+}
+
+.card-header {
+    font-family: 'Glory', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
 }
 
 
