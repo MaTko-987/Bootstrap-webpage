@@ -149,9 +149,11 @@ a:link {
   color: black;
 }
 
+
 a:hover {
   color: orange;
 }
+
 
 #bold {
     font-weight: bold;
