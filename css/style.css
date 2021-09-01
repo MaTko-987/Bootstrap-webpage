@@ -87,7 +87,7 @@ li {
 
 .cards-box h5 {
     font-family: 'Glory', sans-serif;
-    font-weight: 400;
+    font-weight: 700;
 }
 
 .form-box {
@@ -95,7 +95,7 @@ li {
     padding: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 3px 3px 8px #888888;
     font-family: 'Glory', sans-serif;
     font-weight: 400;
 }
@@ -103,7 +103,7 @@ li {
 table {
     background: white;
     border: 1px solid;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 3px 3px 5px #888888;
     font-family: 'Glory', sans-serif;
     font-weight: 400;
 }
@@ -159,6 +159,8 @@ table {
     margin-bottom: 30px;
     margin-top: 30px;
     text-align: start;
+    font-family: 'Glory', sans-serif;
+    font-weight: 400;
 }
 
 .contact_navigation_box img {
@@ -166,7 +168,7 @@ table {
     max-height: 200px;
     border: 1px solid rgb(220,220,220);
     padding: 5px;
-    box-shadow: 5px 10px 8px #888888;
+    box-shadow: 3px 3px 8px #888888;
 }
 
 
