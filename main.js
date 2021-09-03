@@ -6,25 +6,31 @@ const date = document.getElementById('date');
 
 
 
-/* name validation */
+function checkValidation() {
+    /* name validation */
 
-if(name == ""){
-alert("You need to write your first and last name!")
-} else {
-alert("Thank you very much!")}
+    if(name.value === ""){
+    alert("You need to write your first and last name!");
 
-/* phoneNumber validation */
+    } else {
+    return false;
+    }
 
-if (phoneNUmber == ""){
-alert("You need to write your first and last name!")
-} else {
-alert("Thank you very much!")}
+    /* phoneNumber validation */
 
-/* date validation */
+    if (phoneNUmber === ""){
+    alert("Phone number is missing!");
+    } else {
+    return false;
+    }
 
-if(date == ""){
-alert("You need to choose a date !")
-} else {
-alert ("Thank you very much!")
+    /*  date validation */
+
+    if(date === ""){
+    alert("You need to choose a date !");
+    } else {
+    return false;
+    }
+
+
 }
-

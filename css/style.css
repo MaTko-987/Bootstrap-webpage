@@ -111,6 +111,11 @@ table {
     font-size: 20px;
 }
 
+.table-box {
+    font-family: 'Glory', sans-serif;
+    font-weight: 400;
+}
+
 
 .table_form_box {
     display: flex;
